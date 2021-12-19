@@ -1,12 +1,23 @@
-## Hi there 👋
+## Hi there 👋 🙋‍ This is github of connecus-team !!!
+<p align='center'> Contact us! </p>
+<p align='center'>
+  <a href="mailto:nguyenhuonghq97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jingnee721@gmail.com)"/>
+  </a>
+</p>
 
-<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FConnecus-Team&count_bg=%231135D4&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**Here are some ideas to get you started:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huonghope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go-lang" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg" alt="hyperledger" width="40" height="40"/>
+<img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" width="40" height="40"/>
+<img src="https://www.pngitem.com/pimgs/m/346-3468947_images-rust-lang-ar21-rust-programming-language-logo.png" width="40" height="40"/>
+</p>
