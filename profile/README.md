@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go-lang" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg" alt="hyperledger" width="60" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg" alt="hyperledger" width="50" height="40"/>
 <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" width="55" height="40"/>
 <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="40" height="40"/>
 </p>
